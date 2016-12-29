@@ -1,3 +1,8 @@
+---
+layout: post
+title: Learn to love the hack
+---
+
 # Learn to love the hack
 
 Last week I held a talk about Flexbox at work. My CTO uploaded a picture from my slide to social media.
